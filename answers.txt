@@ -1,3 +1,6 @@
 agile vs non agile
 agile pro: adaptability, transparency
 Agile con: unpredictability, low flexibility
+scrum master vs product owner 
+Scrum Master: responsible for how team works. Focus on team health and efficiency
+Product Owner: design for product vision and product management
