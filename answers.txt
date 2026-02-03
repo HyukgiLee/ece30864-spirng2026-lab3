@@ -8,3 +8,8 @@ Product Owner: design for product vision and product management
 Sprint Planning: The team decides on a goal for the next few weeks and decide on which to work on.
 Daily Stand-up: a meeting to share what is going on.
 Sprint Review: meeting where the team shows the finished work to get feedback and possibly talk about what they should do for next.
+Jira Issue Types
+Epic: A big user story that needs to be broken down
+Story:A bug is a problem which impairs or prevents the functions of a product.
+Bug: A user story is the smallest unit of work that needs to be done.
+Task: A task represents work that needs to be done.
