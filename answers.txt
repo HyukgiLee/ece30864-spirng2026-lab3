@@ -4,3 +4,7 @@ Agile con: unpredictability, low flexibility
 scrum master vs product owner 
 Scrum Master: responsible for how team works. Focus on team health and efficiency
 Product Owner: design for product vision and product management
+3 Types of Meetings
+Sprint Planning: The team decides on a goal for the next few weeks and decide on which to work on.
+Daily Stand-up: a meeting to share what is going on.
+Sprint Review: meeting where the team shows the finished work to get feedback and possibly talk about what they should do for next.
